@@ -28,10 +28,10 @@
   },
   "license": "MIT",
   "dependencies": {
-    "async": "2.6.4",
+    "async": "^3.2.3",
     "aws-sdk": "^2.1133.0",
     "lodash": "^4.17.21",
-    "uuid": "3.1.0"
+    "uuid": "^8.3.2"
   },
   "devDependencies": {
     "chai": "4.3.6",
